@@ -27,7 +27,7 @@ msgid "Compilation failed"
 msgstr "Compilarea a esuat"
 
 msgid "Your submission did not compile correctly."
-msgstr "Expedierea nu a fost compilata corect"
+msgstr "Expedierea nu a fost compilata corect."
 
 msgid "Compilation timed out"
 msgstr "Depasirea timpului alocat pentru compilare"
@@ -44,7 +44,7 @@ msgid ""
 "Compilation killed with signal %s (could be triggered by violating memory "
 "limits)"
 msgstr ""
-"Compilarea a esuat cu semnalul %d (putea fi depasita limita de memorie)"
+"Compilarea a esuat cu semnalul %s (putea fi depasita limita de memorie)"
 
 msgid ""
 "Your submission was killed with the specified signal. Among other things, "
@@ -293,7 +293,7 @@ msgid "Print job storage failed!"
 msgstr ""
 
 msgid "Please try again."
-msgstr "Va rugam sa mai incercati"
+msgstr "Va rugam sa mai incercati."
 
 msgid "Print job received"
 msgstr ""
@@ -427,7 +427,7 @@ msgid "Invalid test format!"
 msgstr ""
 
 msgid "Cannot recognize test's language."
-msgstr "Limbajul testului nu poate fi recunoscut!"
+msgstr "Limbajul testului nu poate fi recunoscut."
 
 msgid "Invalid test!"
 msgstr ""
@@ -472,7 +472,7 @@ msgid "Logout"
 msgstr "Iesire"
 
 msgid "Failed to log in."
-msgstr "Eroare de logare"
+msgstr "Eroare de logare."
 
 msgid "Welcome"
 msgstr "Bine ati venit"
@@ -512,7 +512,7 @@ msgid "Until contest ends:"
 msgstr "Pina la sfirsitul olimpiadei:"
 
 msgid "Time left:"
-msgstr "Timpul ramas"
+msgstr "Timpul ramas:"
 
 msgid "Server time:"
 msgstr "Timpul serverului:"
@@ -814,7 +814,7 @@ msgid "Compilation time:"
 msgstr "Timpul compilarii:"
 
 msgid "Memory used:"
-msgstr "Memorie utilizata"
+msgstr "Memorie utilizata:"
 
 msgid "Standard output"
 msgstr "Iesirea standard"
@@ -838,14 +838,14 @@ msgid "Wait..."
 msgstr "Asteptati..."
 
 msgid "No tokens"
-msgstr "Nu sint token-e"
+msgstr "Nu sunt token-uri"
 
 #, python-format
 msgid "%(name)s (%(short_name)s) <small>description</small>"
 msgstr "%(name)s (%(short_name)s) <small>descriere</small>"
 
 msgid "no statement available"
-msgstr "conditii nu sint"
+msgstr "nu sunt conditii"
 
 msgid "Download task statement"
 msgstr "Descarca textul sarcinii"
@@ -857,7 +857,7 @@ msgstr "Enunturile acestei sarcini sint disponibile in mai multe limbi."
 
 msgid "You can see (and download) all of them using the list on the right."
 msgstr ""
-"Puteti vizualiza (si descarca) orice traducere, utilizind lista din dreapta"
+"Puteti vizualiza (si descarca) orice traducere, utilizind lista din dreapta."
 
 msgid "Some suggested translations follow."
 msgstr "."
@@ -917,7 +917,7 @@ msgid "Previous submissions"
 msgstr "Expedierile anterioare"
 
 msgid "Right now, you have infinite tokens available on this task."
-msgstr "Acum pentru aceasta sarcina aveti un numar nelimitat de token-e"
+msgstr "Acum pentru aceasta sarcina aveti un numar nelimitat de token-uri."
 
 msgid "Right now, you have one token available on this task."
 msgstr "Acum pentru aceasta sarcina aveti un token."
